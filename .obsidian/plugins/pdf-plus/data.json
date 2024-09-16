@@ -78,9 +78,7 @@
   "backlinkHoverColor": "",
   "colors": {
     "Yellow": "#ffd000",
-    "Red": "#ea5252",
-    "Note": "#086ddd",
-    "Important": "#bb61e5"
+    "Highlight": "#4285f4"
   },
   "defaultColor": "",
   "defaultColorPaletteItemIndex": 0,
